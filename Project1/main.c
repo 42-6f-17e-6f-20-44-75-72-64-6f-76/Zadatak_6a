@@ -96,7 +96,6 @@ Position createNode(int k) {
 
 int printList(Position head) {
 
-
 	if (head->next != NULL) {
 		printf("\r\n\rLIST CONTENT:\r\n");
 
